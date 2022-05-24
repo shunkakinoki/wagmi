@@ -1,0 +1,4 @@
+{
+  "main": "dist/wagmi-swr-connectors-walletConnect.cjs.js",
+  "module": "dist/wagmi-swr-connectors-walletConnect.esm.js"
+}
